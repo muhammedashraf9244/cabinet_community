@@ -1,0 +1,6 @@
+__pycache__/
+# Pycharm
+/.idea
+
+# Odoo
+/models/__pycache__/
